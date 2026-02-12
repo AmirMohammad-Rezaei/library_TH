@@ -1,0 +1,10 @@
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# فایل‌های لاگ و فایل‌های موقتی
+*.log
+.env
+dist/
+build/
+.DS_Store
